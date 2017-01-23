@@ -1,0 +1,38 @@
+Machine language
+Machine language aþaðý s?viyy?li proqramlaþdýrma dill?rind?n biridir. Machine language yalnýz kompüter t?r?find?n baþa 
+düþül?n proqramlaþdýrma dilidir. Bu dild? kodlar yalnýz 0 v? 1-l?rl? ifad? olunur. Buna gör? d? bu dili baþa düþm?k
+çox ç?tindir.
+
+Assembler 
+Assembler aþaðý s?viyy?li proqramlaþdýrma dill?rind?n biridir. Bu proqramlaþdýrma dili 1952-ci ild? amerikalý qadýn Qreys
+Hopper t?r?find?n hazýrlanan mnemonik dildir. Kodlar yýðýmýný h?yata keçir?n proqram kompilyator adlanýr. Bunu Qreys Hopper
+düþünüb tapmýþdýr. Assembler dili dig?r proqramlaþdýrma dill?rin? b?nz?mir v? tamamil? f?rqli bir dildir. Assemblersiz 
+müasir proqramlaþdýrmaný t?s?vvür etm?k qeyri-mümkündür. Hal-hazýrda bu dil inkiþaf etdirilir. Assembler dilinin imkanlarý 
+sonsuzdur.
+
+Cobol(Common Business Oriented Language)
+Cobol 1950-ci ill?rin sonu 60-cý ill?rin ?vv?ll?rind? hazýrlanmýþdýr. Cobol proqramlaþdýrma dili Fortran proqramlaþdýrma
+dilind?n sonra 2-ci ?n yaþlý yüks?l s?viyy?li proqramlaþdýrma dilidir. Ticar?t v? xüsusil? biznes idar?si il? ?laq?li 
+movzularda bütün dünya istifad? edilm?k üçün hazýrlanýb. Cobol 4 hiss?d?n ibar?tdir:
+1)T?yin etm? hiss?si	2)Mühit hiss?si	3)Prosedur hiss?si	4)K?sim hiss?si
+Hal-hazýrda Cobol çox ?h?miyy?tli mövqey? malikdir. Bunun s?b?bl?rd?n biri Microsoft t?r?find?n 2001-ci ild? t?qdim olunmuþ
+.NET Framework 1.1 versiyasý il? d?st?kl?nm?y? baþlanmasýdýr.
+
+C dili
+Bu dil 1972-ci ild? Dennis Ritchie ve Ken Thompson t?r?find?n Bell laboratoriyalarýnda hazýrlanmýþ v? Unix ?m?liyyat 
+sistemini inkiþaf etdirm?k m?qs?dil? "B" dilind?n tör?miþ bir dildir. Bu gün istifad? etdiyimiz ?m?liyyat sisteml?rinin 
+95%-d? C-d?n istifad? olunur. C general-purpose proqramlaþdýrma dilidir v? bütün platformalarda bu dild?n istifad? 
+mümkündür. C struktur yönümlü proqramlaþdýrma dilidir. C++, Java, C# v? dig?r dill?r bu proqramlaþdýrma dilinin ?sasýnda
+yaradýlmýþdýr. Bjarne Stroustrup C dilini inkiþaf etdir?r?k obyekt yönümlü C++ dilini yaratmýþdýr v? C dilinin sonuna "++"
+?lav? etmiþdir. 
+
+Ruby
+Obyektyönümlü, dinami, reflektiv proqramlaþdýrma dili olan Ruby yaponiyalý Yukihiro Matsumoto t?r?find?n hazýrlanmýþdýr.
+Sintaksis c?h?td?n Ada, Perl, Smalltalk, Lisp, Eiffel kimi proqramlaþdýrma dill?rind?n hazýrlanan Rubynin Python il? bir 
+çox ortaq sozl?ri(sintaksis sözl?r) mövcuddur. Bu dild? 4 f?rqli tipd? d?yiþ?nl?r t?qdim oluna bil?r: 
+Global,class,instance v? local
+
+Javascript
+?sas?n web brauzerl?rd? istifad? olunan bu Javascript dinamik bir proqramlaþdýrma dilidir. Sintaksisi C dilinin sintaksisin?
+?saslanýr. Javascript Html v? CSS il? birlikd? Ýnternet saytlarýn hazýrlanmasý üçün 3 ?sas nüv?d?n biridir. Obyekt yönümlü 
+proqramlaþdýrma dill?rini d?st?kl?yir. Javascript saytlarý interaktiv etm?k üçün istifad? olunan pr. dilidir.
