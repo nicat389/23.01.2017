@@ -1,38 +1,38 @@
-Machine language
-Machine language aşağı s?viyy?li proqramlaşdırma dill?rind?n biridir. Machine language yalnız kompüter t?r?find?n başa 
-düşül?n proqramlaşdırma dilidir. Bu dild? kodlar yalnız 0 v? 1-l?rl? ifad? olunur. Buna gör? d? bu dili başa düşm?k
-çox ç?tindir.
+ï»¿Machine language
+Machine language aÅŸaÄŸÄ± sÉ™viyyÉ™li proqramlaÅŸdÄ±rma dillÉ™rindÉ™n biridir. Machine language yalnÄ±z kompÃ¼ter tÉ™rÉ™findÉ™n baÅŸa 
+dÃ¼ÅŸÃ¼lÉ™n proqramlaÅŸdÄ±rma dilidir. Bu dildÉ™ kodlar yalnÄ±z 0 vÉ™ 1-lÉ™rlÉ™ ifadÉ™ olunur. Buna gÃ¶rÉ™ dÉ™ bu dili baÅŸa dÃ¼ÅŸmÉ™k
+Ã§ox Ã§É™tindir.
 
 Assembler 
-Assembler aşağı s?viyy?li proqramlaşdırma dill?rind?n biridir. Bu proqramlaşdırma dili 1952-ci ild? amerikalı qadın Qreys
-Hopper t?r?find?n hazırlanan mnemonik dildir. Kodlar yığımını h?yata keçir?n proqram kompilyator adlanır. Bunu Qreys Hopper
-düşünüb tapmışdır. Assembler dili dig?r proqramlaşdırma dill?rin? b?nz?mir v? tamamil? f?rqli bir dildir. Assemblersiz 
-müasir proqramlaşdırmanı t?s?vvür etm?k qeyri-mümkündür. Hal-hazırda bu dil inkişaf etdirilir. Assembler dilinin imkanları 
+Assembler aÅŸaÄŸÄ± sÉ™viyyÉ™li proqramlaÅŸdÄ±rma dillÉ™rindÉ™n biridir. Bu proqramlaÅŸdÄ±rma dili 1952-ci ildÉ™ amerikalÄ± qadÄ±n Qreys
+Hopper tÉ™rÉ™findÉ™n hazÄ±rlanan mnemonik dildir. Kodlar yÄ±ÄŸÄ±mÄ±nÄ± hÉ™yata keÃ§irÉ™n proqram kompilyator adlanÄ±r. Bunu Qreys Hopper
+dÃ¼ÅŸÃ¼nÃ¼b tapmÄ±ÅŸdÄ±r. Assembler dili digÉ™r proqramlaÅŸdÄ±rma dillÉ™rinÉ™ bÉ™nzÉ™mir vÉ™ tamamilÉ™ fÉ™rqli bir dildir. Assemblersiz 
+mÃ¼asir proqramlaÅŸdÄ±rmanÄ± tÉ™sÉ™vvÃ¼r etmÉ™k qeyri-mÃ¼mkÃ¼ndÃ¼r. Hal-hazÄ±rda bu dil inkiÅŸaf etdirilir. Assembler dilinin imkanlarÄ± 
 sonsuzdur.
 
 Cobol(Common Business Oriented Language)
-Cobol 1950-ci ill?rin sonu 60-cı ill?rin ?vv?ll?rind? hazırlanmışdır. Cobol proqramlaşdırma dili Fortran proqramlaşdırma
-dilind?n sonra 2-ci ?n yaşlı yüks?l s?viyy?li proqramlaşdırma dilidir. Ticar?t v? xüsusil? biznes idar?si il? ?laq?li 
-movzularda bütün dünya istifad? edilm?k üçün hazırlanıb. Cobol 4 hiss?d?n ibar?tdir:
-1)T?yin etm? hiss?si	2)Mühit hiss?si	3)Prosedur hiss?si	4)K?sim hiss?si
-Hal-hazırda Cobol çox ?h?miyy?tli mövqey? malikdir. Bunun s?b?bl?rd?n biri Microsoft t?r?find?n 2001-ci ild? t?qdim olunmuş
-.NET Framework 1.1 versiyası il? d?st?kl?nm?y? başlanmasıdır.
+Cobol 1950-ci illÉ™rin sonu 60-cÄ± illÉ™rin É™vvÉ™llÉ™rindÉ™ hazÄ±rlanmÄ±ÅŸdÄ±r. Cobol proqramlaÅŸdÄ±rma dili Fortran proqramlaÅŸdÄ±rma
+dilindÉ™n sonra 2-ci É™n yaÅŸlÄ± yÃ¼ksÉ™l sÉ™viyyÉ™li proqramlaÅŸdÄ±rma dilidir. TicarÉ™t vÉ™ xÃ¼susilÉ™ biznes idarÉ™si ilÉ™ É™laqÉ™li 
+movzularda bÃ¼tÃ¼n dÃ¼nya istifadÉ™ edilmÉ™k Ã¼Ã§Ã¼n hazÄ±rlanÄ±b. Cobol 4 hissÉ™dÉ™n ibarÉ™tdir:
+1)TÉ™yin etmÉ™ hissÉ™si	2)MÃ¼hit hissÉ™si	3)Prosedur hissÉ™si	4)KÉ™sim hissÉ™si
+Hal-hazÄ±rda Cobol Ã§ox É™hÉ™miyyÉ™tli mÃ¶vqeyÉ™ malikdir. Bunun sÉ™bÉ™blÉ™rdÉ™n biri Microsoft tÉ™rÉ™findÉ™n 2001-ci ildÉ™ tÉ™qdim olunmuÅŸ
+.NET Framework 1.1 versiyasÄ± ilÉ™ dÉ™stÉ™klÉ™nmÉ™yÉ™ baÅŸlanmasÄ±dÄ±r.
 
 C dili
-Bu dil 1972-ci ild? Dennis Ritchie ve Ken Thompson t?r?find?n Bell laboratoriyalarında hazırlanmış v? Unix ?m?liyyat 
-sistemini inkişaf etdirm?k m?qs?dil? "B" dilind?n tör?miş bir dildir. Bu gün istifad? etdiyimiz ?m?liyyat sisteml?rinin 
-95%-d? C-d?n istifad? olunur. C general-purpose proqramlaşdırma dilidir v? bütün platformalarda bu dild?n istifad? 
-mümkündür. C struktur yönümlü proqramlaşdırma dilidir. C++, Java, C# v? dig?r dill?r bu proqramlaşdırma dilinin ?sasında
-yaradılmışdır. Bjarne Stroustrup C dilini inkişaf etdir?r?k obyekt yönümlü C++ dilini yaratmışdır v? C dilinin sonuna "++"
-?lav? etmişdir. 
+Bu dil 1972-ci ildÉ™ Dennis Ritchie ve Ken Thompson tÉ™rÉ™findÉ™n Bell laboratoriyalarÄ±nda hazÄ±rlanmÄ±ÅŸ vÉ™ Unix É™mÉ™liyyat 
+sistemini inkiÅŸaf etdirmÉ™k mÉ™qsÉ™dilÉ™ "B" dilindÉ™n tÃ¶rÉ™miÅŸ bir dildir. Bu gÃ¼n istifadÉ™ etdiyimiz É™mÉ™liyyat sistemlÉ™rinin 
+95%-dÉ™ C-dÉ™n istifadÉ™ olunur. C general-purpose proqramlaÅŸdÄ±rma dilidir vÉ™ bÃ¼tÃ¼n platformalarda bu dildÉ™n istifadÉ™ 
+mÃ¼mkÃ¼ndÃ¼r. C struktur yÃ¶nÃ¼mlÃ¼ proqramlaÅŸdÄ±rma dilidir. C++, Java, C# vÉ™ digÉ™r dillÉ™r bu proqramlaÅŸdÄ±rma dilinin É™sasÄ±nda
+yaradÄ±lmÄ±ÅŸdÄ±r. Bjarne Stroustrup C dilini inkiÅŸaf etdirÉ™rÉ™k obyekt yÃ¶nÃ¼mlÃ¼ C++ dilini yaratmÄ±ÅŸdÄ±r vÉ™ C dilinin sonuna "++"
+É™lavÉ™ etmiÅŸdir. 
 
 Ruby
-Obyektyönümlü, dinami, reflektiv proqramlaşdırma dili olan Ruby yaponiyalı Yukihiro Matsumoto t?r?find?n hazırlanmışdır.
-Sintaksis c?h?td?n Ada, Perl, Smalltalk, Lisp, Eiffel kimi proqramlaşdırma dill?rind?n hazırlanan Rubynin Python il? bir 
-çox ortaq sozl?ri(sintaksis sözl?r) mövcuddur. Bu dild? 4 f?rqli tipd? d?yiş?nl?r t?qdim oluna bil?r: 
-Global,class,instance v? local
+ObyektyÃ¶nÃ¼mlÃ¼, dinami, reflektiv proqramlaÅŸdÄ±rma dili olan Ruby yaponiyalÄ± Yukihiro Matsumoto tÉ™rÉ™findÉ™n hazÄ±rlanmÄ±ÅŸdÄ±r.
+Sintaksis cÉ™hÉ™tdÉ™n Ada, Perl, Smalltalk, Lisp, Eiffel kimi proqramlaÅŸdÄ±rma dillÉ™rindÉ™n hazÄ±rlanan Rubynin Python ilÉ™ bir 
+Ã§ox ortaq sozlÉ™ri(sintaksis sÃ¶zlÉ™r) mÃ¶vcuddur. Bu dildÉ™ 4 fÉ™rqli tipdÉ™ dÉ™yiÅŸÉ™nlÉ™r tÉ™qdim oluna bilÉ™r: 
+Global,class,instance vÉ™ local
 
 Javascript
-?sas?n web brauzerl?rd? istifad? olunan bu Javascript dinamik bir proqramlaşdırma dilidir. Sintaksisi C dilinin sintaksisin?
-?saslanır. Javascript Html v? CSS il? birlikd? İnternet saytların hazırlanması üçün 3 ?sas nüv?d?n biridir. Obyekt yönümlü 
-proqramlaşdırma dill?rini d?st?kl?yir. Javascript saytları interaktiv etm?k üçün istifad? olunan pr. dilidir.
+ÆsasÉ™n web brauzerlÉ™rdÉ™ istifadÉ™ olunan bu Javascript dinamik bir proqramlaÅŸdÄ±rma dilidir. Sintaksisi C dilinin sintaksisinÉ™
+É™saslanÄ±r. Javascript Html vÉ™ CSS ilÉ™ birlikdÉ™ Ä°nternet saytlarÄ±n hazÄ±rlanmasÄ± Ã¼Ã§Ã¼n 3 É™sas nÃ¼vÉ™dÉ™n biridir. Obyekt yÃ¶nÃ¼mlÃ¼ 
+proqramlaÅŸdÄ±rma dillÉ™rini dÉ™stÉ™klÉ™yir. Javascript saytlarÄ± interaktiv etmÉ™k Ã¼Ã§Ã¼n istifadÉ™ olunan pr. dilidir.
